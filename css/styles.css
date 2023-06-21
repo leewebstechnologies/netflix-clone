@@ -142,3 +142,9 @@ a {
   padding: 0.8rem 1.3rem;
   text-transform: uppercase;
 }
+
+.tabs {
+  background: var(--primary-color);
+  padding-top: 1rem;
+  border-bottom: 3px solid #3d3d3d;
+}
